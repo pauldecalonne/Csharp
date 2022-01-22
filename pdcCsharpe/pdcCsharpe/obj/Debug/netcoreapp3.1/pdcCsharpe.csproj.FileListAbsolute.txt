@@ -1,0 +1,13 @@
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/bin/Debug/netcoreapp3.1/pdcCsharpe.deps.json
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/bin/Debug/netcoreapp3.1/pdcCsharpe.runtimeconfig.json
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/bin/Debug/netcoreapp3.1/pdcCsharpe.runtimeconfig.dev.json
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/bin/Debug/netcoreapp3.1/pdcCsharpe.dll
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/bin/Debug/netcoreapp3.1/pdcCsharpe.pdb
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/obj/Debug/netcoreapp3.1/pdcCsharpe.csproj.AssemblyReference.cache
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/obj/Debug/netcoreapp3.1/pdcCsharpe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/obj/Debug/netcoreapp3.1/pdcCsharpe.AssemblyInfoInputs.cache
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/obj/Debug/netcoreapp3.1/pdcCsharpe.AssemblyInfo.cs
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/obj/Debug/netcoreapp3.1/pdcCsharpe.csproj.CoreCompileInputs.cache
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/obj/Debug/netcoreapp3.1/pdcCsharpe.dll
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/obj/Debug/netcoreapp3.1/pdcCsharpe.pdb
+/Users/pauldecalonne/Desktop/code/pdcCsharpe/pdcCsharpe/obj/Debug/netcoreapp3.1/pdcCsharpe.genruntimeconfig.cache
